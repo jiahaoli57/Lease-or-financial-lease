@@ -11,7 +11,7 @@ The residual value of the equipment is an important and inevitable issue for any
 
 ### Contributors
 * ***Yong Zhang***
-* ***Jiahao Li*** (E-mail: [jiahaoli57@163.com](jiahaoli57@163.com))
+* ***Jiahao Li (E-mail: [jiahaoli57@163.com](jiahaoli57@163.com))***
 * ***Xingyu Yang***
 * ***Xiaohui Wang***
 
