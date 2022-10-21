@@ -25,14 +25,14 @@ Not applicable.
 ## Citations
 Please cite our work if you find our code/paper is useful to your work.
 ```bibtex
-@article{zhang2022lease,
-  title={Lease or financial lease? Deterministic strategies for on-line financial lease problem with the second-hand transaction},
-  author={Zhang, Yong and Li, Jiahao and Yang, Xingyu and Wang, Xiaohui},
-  journal={Journal of Combinatorial Optimization},
-  volume={44},
-  number={2},
-  pages={1248--1264},
-  year={2022},
-  publisher={Springer}
+@misc{zhang2022lease,
+    title     = {Lease or financial lease? Deterministic strategies for on-line financial lease problem with the second-hand transaction},
+    author    = {Zhang, Yong and Li, Jiahao and Yang, Xingyu and Wang, Xiaohui},
+    journal   = {Journal of Combinatorial Optimization},
+    volume    = {44},
+    number    = {2},
+    pages     = {1248--1264},
+    year      = {2022},
+    publisher = {Springer}
 }
 ```
