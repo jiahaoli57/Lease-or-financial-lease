@@ -15,7 +15,7 @@ The residual value of the equipment is an important and inevitable issue for any
 * ***Xingyu Yang***
 * ***Xiaohui Wang***
 
-### Institution
+### Institutions
 * ***School of Management, Guangdong University of Technology***
 * ***School of Economics and Management, Tianjin University of Technology and Education***
 
