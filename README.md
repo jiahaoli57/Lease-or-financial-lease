@@ -1,8 +1,6 @@
 # Lease-or-financial-lease
 [Lease or financial lease? Deterministic strategies for on-line financial lease problem with the second-hand transaction](https://link.springer.com/article/10.1007/s10878-022-00886-7)
 
-If there are enough people who need the code, we will consider making it public.
-
 ## About
 The residual value of the equipment is an important and inevitable issue for any decision-making process of equipment leasing. In this paper, we present an on-line financial leasing problem considering the second-hand transaction issue, i.e. the equipment can be sold in the secondary market when it is no longer needed. Using competitive analysis, the optimal deterministic strategies are given to deal with the financial leasing problem. Finally, to test the performance of the proposed on-line financial leasing strategies, several numerical experiments are conducted.
 
